@@ -1,2 +1,4 @@
 # hello-world
-about myself
+name: Yelim Cho
+Hunter College Dance major Freahman
+from Queens, NY
